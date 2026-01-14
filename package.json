@@ -1,6 +1,6 @@
 {
   "name": "com.dynamicproductivitystudio.simple-player-control-framework",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "DPS Simple Player Control Framework",
   "unity": "6000.0",
   "description": "A reusable controller library for setting up events for capturing player input.  Intended for use with the Simple UI Framework.",
@@ -16,6 +16,7 @@
   ],
   "dependencies": {
     "com.unity.ugui": "2.0.0",
-    "com.unity.inputsystem": "1.14.1"
+    "com.unity.inputsystem": "1.14.1",
+    "com.dynamicproductivitystudio.common": ">=1.0.0"
   }
 }
