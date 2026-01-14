@@ -1,0 +1,21 @@
+{
+  "name": "com.dynamicproductivitystudio.simple-player-control-framework",
+  "version": "1.0.0",
+  "displayName": "DPS Simple Player Control Framework",
+  "unity": "6000.0",
+  "description": "A reusable controller library for setting up events for capturing player input.  Intended for use with the Simple UI Framework.",
+  "author": {
+    "name": "Zikomo Bullock",
+    "email": "zjbulllock@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "controls",
+    "tools",
+    "framework"
+  ],
+  "dependencies": {
+    "com.unity.ugui": "2.0.0",
+    "com.unity.inputsystem": "1.14.1"
+  }
+}
