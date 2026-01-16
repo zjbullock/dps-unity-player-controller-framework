@@ -2,8 +2,8 @@
     "name": "PlayerControlsFramework",
     "rootNamespace": "",
     "references": [
-        "GUID:75469ad4d38634e559750d17036d5f7c",
-        "GUID:5fe034602ce926d49a8c0708e3b11f32"
+        "Unity.InputSystem",
+        "DPSCommon"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
